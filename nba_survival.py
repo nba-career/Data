@@ -34,7 +34,7 @@ def nba_life(df=df, positions=['G', 'F', 'C', 'F-C', 'G-F', 'C-F', 'F-G'],
                          16, 17, 18, 19, 20, 21, 22])
     return table
 
-# function creates table based on input values ... default is all positions
+# function creates plot based on input values ... default is all positions
 # and years
 
 
